@@ -1,11 +1,11 @@
-About r-rcmdcheck
-=================
+About r-rcmdcheck-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcmdcheck-feedstock/blob/main/LICENSE.txt)
 
 Home: https://r-lib.github.io/rcmdcheck/, https://github.com/r-Lib/rcmdcheck#readme
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rcmdcheck-feedstock/blob/main/LICENSE.txt)
 
 Summary: Run 'R CMD check' from 'R' and capture the results of the individual checks. Supports running checks in the background, timeouts, pretty printing and comparing check results.
 
